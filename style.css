@@ -47,4 +47,8 @@ p {
 }
 .botton{
   background-color: #0e76a8 ;
+  padding: auto;
+  text-decoration: none;
+  border-radius: 3px;
+
 }
