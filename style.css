@@ -12,7 +12,9 @@ h2 {
   h3 {
     color: white;
   }
-
+a{
+    color: white;
+}
   body {
       color: white;
     background-color: rgb(165, 152, 157); 
