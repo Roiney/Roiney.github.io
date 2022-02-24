@@ -1,40 +1,39 @@
-
-h1{
-    color: white;
+h1 {
+  color: white;
 }
-ul{
-    color: white;
+ul {
+  color: white;
 }
 h2 {
-    color: white;
-  }
-
-  h3 {
-    color: white;
-  }
-a{
-    color: white;
+  color: white;
 }
-  body {
-      color: white;
-    background-color: rgb(165, 152, 157); 
-    background-image: url(Imagens/imagem-fundo.jpg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment:fixed;
-    background-size: cover;
-  }
 
-  .list-style {
-    color: white;
-    line-height: 22px;
-  }
-  p{
-    color: white;
-    font-family:'Times New Roman', Times, serif
-  }
-  #Dcao{
-    color: white;
-    font-size: 16px;
-  }
-  
+h3 {
+  color: white;
+}
+a {
+  color: white;
+}
+body {
+  color: white;
+  background-color: rgb(165, 152, 157);
+  background-image: url(Imagens/imagem-fundo.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+}
+
+.list-style {
+  color: white;
+  line-height: 22px;
+}
+p {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+}
+#Dcao {
+  color: white;
+  font-size: 16px;
+}
