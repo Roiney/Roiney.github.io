@@ -22,9 +22,10 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+}
+div{
   text-align: center;
 }
-
 .list-style {
   color: white;
   line-height: 22px;
