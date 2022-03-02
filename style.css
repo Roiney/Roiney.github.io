@@ -1,12 +1,21 @@
 h1 {
   color: white;
-  text-align: center;
+  background-image: url(Imagens/imagem-fundo.jpg);
+  background-position: right;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+  padding: 1%;
+  font-size: 40px;
 }
+
 ul {
   color: white;
+  text-align: left
 }
 h2 {
   color: white;
+  text-align: left;
 }
 
 h3 {
@@ -17,15 +26,7 @@ a {
 }
 body {
   color: white;
-  background-color: rgb(165, 152, 157);
-  background-image: url(Imagens/imagem-fundo.jpg);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
-div{
-  text-align: center;
+  background-color: black;
 }
 .list-style {
   color: white;
@@ -34,22 +35,43 @@ div{
 p {
   color: white;
   font-family: "Times New Roman", Times, serif;
+  max-width: 80%;
+  margin: auto;
 }
-#Dcao {
+.Dcao {
+  display: inline-block;
   color: white;
   font-size: 16px;
-  background-color: #98442a
+  max-width: 80%;
+  height: 100px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-right: 10 px;
+  margin-left: 100 px;
+  text-align: center;
+  vertical-align: middle;
+ 
 }
-#Roiney{
-  style="border-radius: 40% 0%;
-}
+
 .Roiney{
-  border-radius: 40% 0%;
+  margin-top: 100px;
+  border-radius: 40% 0;
+  background-color: #0fa36b;;
+  padding: 5px;
+  display: inline-block;
+ 
 }
 .botton{
   background-color: #0e76a8 ;
   padding: auto;
   text-decoration: none;
   border-radius: 3px;
+}
+#BN{
+  width: 300%
 
+  left: cover;
+  margin-left: 5px;
+  margin-right: 5px;
+  
 }
